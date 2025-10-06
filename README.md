@@ -17,7 +17,7 @@
 <a href="https://github.com/codershashi0001">
   <img align="left" width="100" src="./assets/about.gif" ></a> &nbsp;        
   I'm a final-year <b>BCA student at G.L. Bajaj Institute of Management</b>, passionate about building efficient and user-friendly &nbsp;&nbsp;software solutions.  
-I enjoy exploring <b>C, C++, Java, HTML, CSS</b>, and <b>Git/GitHub</b>, with a growing interest in <b>AI & &nbsp;&nbsp;Machine Learning</b>.  
+I enjoy exploring <b>C, C++, Java, HTML, CSS</b>, and <b>Git/GitHub</b>, with a growing interest in <br><b>AI & Machine Learning</b>.  
 
 &nbsp;&nbsp;I’m continuously improving my problem-solving skills and learning to design intuitive user interfaces through <br> &nbsp;&nbsp;**UI/UX fundamentals**.
 
