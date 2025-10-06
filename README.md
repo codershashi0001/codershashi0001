@@ -59,8 +59,9 @@ I’m continuously improving my problem-solving skills and learning to design in
 <div align="center">
  <p align="center">
 
-  <img src=[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=codershashi0001)](https://git.io/streak-stats)
- />
+  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=codershashi0001&theme=dark)](https://git.io/streak-stats)
+
+
 
 
 </p>
