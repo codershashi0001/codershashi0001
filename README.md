@@ -16,8 +16,8 @@
 ### ☕ About me
 <a href="https://github.com/codershashi0001">
   <img align="left" width="100" src="./assets/about.gif" ></a> &nbsp;        
-  I'm a final-year **BCA student at G.L. Bajaj Institute of Management**, passionate about building efficient and user-friendly &nbsp;&nbsp;software solutions.  
-I enjoy exploring **C, C++, Java, HTML, CSS**, and **Git/GitHub**, with a growing interest in **AI & &nbsp;&nbsp;Machine Learning**.  
+  I'm a final-year <b>BCA student at G.L. Bajaj Institute of Management</b>, passionate about building efficient and user-friendly &nbsp;&nbsp;software solutions.  
+I enjoy exploring <b>C, C++, Java, HTML, CSS</b>, and <b>Git/GitHub</b>, with a growing interest in <b>AI & &nbsp;&nbsp;Machine Learning</b>.  
 
 &nbsp;&nbsp;I’m continuously improving my problem-solving skills and learning to design intuitive user interfaces through <br> &nbsp;&nbsp;**UI/UX fundamentals**.
 
@@ -78,15 +78,6 @@ I enjoy exploring **C, C++, Java, HTML, CSS**, and **Git/GitHub**, with a growin
 
 
 
-##  🌐 Social Media
-
-<p align="center">
-  <!-- Social Media Icons without links, you can add your links later -->
-  <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</p>
 
 ## 🧋 Special Widgets & Counters
 
@@ -160,4 +151,17 @@ To become a skilled **Software Engineer** and contribute to meaningful, real-wor
 ---
 -->
 ### 📫 Connect With Me  
+<a href="https://github.com/codershashi0001">
+  <img align="right" width="100" src="./assets/coder.gif" style="margin-left: 15px;">
 *(Add your LinkedIn, Portfolio, or Email links here when available)*  
+
+##  🌐 Social Media
+
+<p align="center">
+  <!-- Social Media Icons without links, you can add your links later -->
+  <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
+
