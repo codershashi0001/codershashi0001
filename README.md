@@ -91,7 +91,7 @@ I enjoy exploring **C, C++, Java, HTML, CSS**, and **Git/GitHub**, with a growin
 ## 🧋 Special Widgets & Counters
 
 <!-- <p align="center"> -->
-  <a href="https://github.com/codershashi0001"><img align="left" width="100" src="./assets/coder2.webp" alt="Profile Pic"/></a>      
+  <a href="https://github.com/codershashi0001"><img align="left" width="100" src="./assets/boy-glitch.gif" alt="Profile Pic"/></a>      
 
 
 
