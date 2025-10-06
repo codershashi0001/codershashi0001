@@ -19,7 +19,7 @@
   I'm a final-year **BCA student at G.L. Bajaj Institute of Management**, passionate about building efficient and user-friendly &nbsp;&nbsp;software solutions.  
 I enjoy exploring **C, C++, Java, HTML, CSS**, and **Git/GitHub**, with a growing interest in **AI & &nbsp;&nbsp;Machine Learning**.  
 
-&nbsp;&nbsp;I’m continuously improving my problem-solving skills and learning to design intuitive user interfaces through **UI/UX fundamentals**.
+&nbsp;&nbsp;I’m continuously improving my problem-solving skills and learning to design intuitive user interfaces through <br> &nbsp;&nbsp; **UI/UX fundamentals**.
 
 
 
