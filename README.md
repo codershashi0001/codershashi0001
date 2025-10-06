@@ -85,10 +85,19 @@ I’m continuously improving my problem-solving skills and learning to design in
 
 ## 🧋 Special Widgets & Counters
 
-<p align="center">
-  <a href="https://github.com/codershashi0001"><img align="left" width="100" src="./assets/dp.png" alt="Profile Pic"/></a> <span>``` here is my qt counter ``` </span>
+<!-- <p align="center"> -->
+  <a href="https://github.com/codershashi0001"><img align="left" width="100" src="./assets/dp.png" alt="Profile Pic"/></a> 
+
+
+
   <img src="https://count.getloli.com/@codershashi0001?name=codershashi0001&theme=dark&padding=10&offset=0&scale=1&pixelated=1&darkmode=1" alt="Visitor Count"/>
-</p>  
+<!-- </p>   -->
+
+```yaml
+People who visit my profile :.
+
+Hehe~ another QT has been caught.
+```
 
 ---
 
