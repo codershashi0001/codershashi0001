@@ -3,11 +3,11 @@
   <img src="./assets/sad-gif.gif" alt="Profile Picture" width="100%" style="width: 100%; height: auto;" />
 </div>
 
----
+
 
 ## Hi!👋 I'm Shashi  
 
----
+
 
 **👨‍💻 Final-year BCA student | 💻 C, C++, Java, HTML, CSS | 🤖 Learning AI/ML | 🌟 Aspiring Software Engineer | ✨ Love to build, learn & grow through code. | Tech Enthusiast**
 
@@ -24,7 +24,7 @@ I enjoy exploring **C, C++, Java, HTML, CSS**, and **Git/GitHub**, with a growin
 
 I’m continuously improving my problem-solving skills and learning to design intuitive user interfaces through **UI/UX fundamentals**.
 
----
+
 
 
 ## 🧠 Skills & Tools  
@@ -37,20 +37,20 @@ I’m continuously improving my problem-solving skills and learning to design in
 - 🎨 **Design:** Basic UI/UX  
 - 🤖 **Learning:** Artificial Intelligence & Machine Learning
 
----
+
 
 ## 🧑‍💼 Strengths  
 - Strong **leadership** and **team management** qualities  
 - Excellent **communication** and **adaptability**  
 - Self-motivated, consistent, and goal-oriented  
 
----
+
 
 ## 🎨 Hobbies  
 - ✏️ **Drawing** – I like to draw when I’m free or need a creative break.  
 - 🌍 **Travelling** – I enjoy exploring new places and cultures whenever I get the chance.  
 
----
+
 
 ## 📊 Github Stats
 
@@ -79,7 +79,7 @@ I’m continuously improving my problem-solving skills and learning to design in
 </div>
 
 
----
+
 
 ##  🌐 Social Media
 
