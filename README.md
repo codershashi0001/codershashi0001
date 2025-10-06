@@ -5,11 +5,15 @@
 
 ---
 
-### Hi!👋 I'm Shashi  
+## Hi!👋 I'm Shashi  
+
 ---
+
 **👨‍💻 Final-year BCA student | 💻 C, C++, Java, HTML, CSS | 🤖 Learning AI/ML | 🌟 Aspiring Software Engineer | ✨ Love to build, learn & grow through code. | Tech Enthusiast**
+
 ---
-## ☕ About me
+
+### ☕ About me
 I'm a final-year **BCA student at G.L. Bajaj Institute of Management**, passionate about building efficient and user-friendly software solutions.  
 I enjoy exploring **C, C++, Java, HTML, CSS**, and **Git/GitHub**, with a growing interest in **AI & Machine Learning**.  
 
