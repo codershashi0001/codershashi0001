@@ -54,11 +54,16 @@ I’m continuously improving my problem-solving skills and learning to design in
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=codershashi0001&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="codershashi0001" />
 </p>
-<div>
-<p align="center">
-  <img src=[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=codershashi0001)](https://git.io/streak-stats)
- alt="GitHub Streak" />
+
+
+<div align="center">
+ <p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codershashi0001&theme=tokyonight-duo" alt="GitHub Streak" />
+
+
 </p>
+
 </div>
 
 
