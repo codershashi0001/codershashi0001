@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Profile Pic: Tag added for later link -->
-  <img src="https://via.placeholder.com/150?text=Profile+Pic" alt="Profile Picture" width="150" style="border-radius:50%" />
+  <img src="./assets/coder.gif" alt="Profile Picture" width="150" style="border-radius:50%" />
 </div>
 
 ---
