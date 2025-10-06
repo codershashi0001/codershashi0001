@@ -56,7 +56,8 @@ I’m continuously improving my problem-solving skills and learning to design in
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=codershashi0001&theme=tokyonight-duo" alt="GitHub Streak" />
+  <img src="(https://github-readme-streak-stats-eight.vercel.app?user=USERNAME
+)" alt="GitHub Streak" />
 </p>
 
 
