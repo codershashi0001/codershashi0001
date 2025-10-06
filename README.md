@@ -150,7 +150,8 @@ To become a skilled **Software Engineer** and contribute to meaningful, real-wor
 > _“Stay motivated, stay consistent — the journey matters more than the destination.”_
 
 ---
--->
+-->  
+  <br>
 ### 📫 Connect With Me  
 <a href="https://github.com/codershashi0001">
   <img align="right" width="100" src="./assets/coder.gif" style="margin-left: 15px;">
