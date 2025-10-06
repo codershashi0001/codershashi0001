@@ -164,6 +164,6 @@ Shashi Kumar](https://www.linkedin.com/in/shashi-kumar001?utm_source=share&utm_c
 
 [![Static Badge](https://img.shields.io/github/followers/codershashi0001?label=Followers&style=social)](https://github.com/codershashi0001)
  [![Static Badge](https://img.shields.io/badge/linkedin-blue?style=flat&link=https%3A%2F%2Fgithub.com%2Fcodershashi0001)](https://www.linkedin.com/in/shashi-kumar001?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)]()
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:shashi725806@gmail.com)
+<!-- [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)]() --> 
 
