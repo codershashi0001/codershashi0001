@@ -154,7 +154,8 @@ To become a skilled **Software Engineer** and contribute to meaningful, real-wor
   <br>
 ### 📫 Connect With Me  
 <a href="https://github.com/codershashi0001">
-  <img align="right" width="100" src="./assets/coder.gif" style="margin-left: 15px;">
+  <img align="right" width="100" src="./assets/coder.gif">
+ 
 *(Add your LinkedIn, Portfolio, or Email links here when available)*  >br>
 
 ##  🌐 Social Media
