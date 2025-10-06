@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Profile Pic: Tag added for later link -->
-  <img src="./assets/coder.gif" alt="Profile Picture" width="100%" style="width: 100%; height: auto;" />
+  <img src="./assets/sad-gif.gif" alt="Profile Picture" width="100%" style="width: 100%; height: auto;" />
 </div>
 
 ---
@@ -86,7 +86,7 @@ I’m continuously improving my problem-solving skills and learning to design in
 ## 🧋 Special Widgets & Counters
 
 <!-- <p align="center"> -->
-  <a href="https://github.com/codershashi0001"><img align="left" width="100" src="./assets/dp.png" alt="Profile Pic"/></a>      
+  <a href="https://github.com/codershashi0001"><img align="left" width="100" src="./assets/coder2.webp" alt="Profile Pic"/></a>      
 
 
 
