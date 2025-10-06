@@ -98,10 +98,6 @@ Hehe~ another QT has been caught.
 
 
 
-
-<br>
-
-
 <!-- </p>   -->
 
 
@@ -150,9 +146,8 @@ To become a skilled **Software Engineer** and contribute to meaningful, real-wor
 > _“Stay motivated, stay consistent — the journey matters more than the destination.”_
 
 ---
--->  
-  <br>
-  
+-->
+
 ## **📫 Connect** 
 <a href="https://github.com/codershashi0001">
   <img align="right" width="100" src="./assets/coder.gif"> </a>
