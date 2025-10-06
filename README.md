@@ -27,7 +27,8 @@ I enjoy exploring <b>C, C++, Java, HTML, CSS</b>, and <b>Git/GitHub</b>, with a 
 ## 🧠 Skills & Tools  
 <a href="https://github.com/codershashi0001">
   <img align="right" width="100" src="./assets/coder2.webp" style="margin-left: 15px;">
-</a>  
+</a>    
+
 - 💻 **Languages:** C, C++, Java  
 - 🌐 **Web Technologies:** HTML, CSS  
 - 🧩 **Version Control:** Git, GitHub  
