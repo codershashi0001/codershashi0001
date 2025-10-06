@@ -15,7 +15,7 @@
 
 ### ☕ About me
 <a href="https://github.com/codershashi0001">
-  <img align="left" width="100" src="./assets/about.gif" style="margin-right: 15px;">
+  <img align="left" width="100" src="./assets/about.gif" style="margin-right: 20px;">
 </a>  
   
 
