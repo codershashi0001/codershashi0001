@@ -86,7 +86,7 @@ I’m continuously improving my problem-solving skills and learning to design in
 ## 🧋 Special Widgets & Counters
 
 <p align="center">
-  <a href="https://github.com/codershashi0001"><img align="left" width="100" src="https://github.com/settings/profile" alt="Profile Pic"/></a>
+  <a href="https://github.com/codershashi0001"><img align="left" width="100" src="./assets/dp.png" alt="Profile Pic"/></a>
   <img src="https://count.getloli.com/@codershashi0001?name=codershashi0001&theme=dark&padding=10&offset=0&scale=1&pixelated=1&darkmode=1" alt="Visitor Count"/>
 </p>
 
