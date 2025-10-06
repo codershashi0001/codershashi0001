@@ -13,7 +13,7 @@
 
 ---
 
-### ☕ About me
+## **☕ About me**
 <a href="https://github.com/codershashi0001">
   <img align="left" width="100" src="./assets/about.gif" ></a> &nbsp;        
   I'm a final-year <b>BCA student at G.L. Bajaj Institute of Management</b>, passionate about building efficient and user-friendly &nbsp;&nbsp;software solutions.  
@@ -24,7 +24,7 @@ I enjoy exploring <b>C, C++, Java, HTML, CSS</b>, and <b>Git/GitHub</b>, with a 
 
 
 
-## 🧠 Skills & Tools  
+## **🧠 Skills & Tools**  
 <a href="https://github.com/codershashi0001">
   <img align="right" width="100" src="./assets/coder2.webp" style="margin-left: 15px;">
 </a>    
@@ -37,20 +37,20 @@ I enjoy exploring <b>C, C++, Java, HTML, CSS</b>, and <b>Git/GitHub</b>, with a 
 
 
 
-## 🧑‍💼 Strengths  
+## **🧑‍💼 Strengths**  
 - Strong **leadership** and **team management** qualities  
 - Excellent **communication** and **adaptability**  
 - Self-motivated, consistent, and goal-oriented  
 
 
 
-## 🎨 Hobbies  
+## **🎨 Hobbies**  
 - ✏️ **Drawing** – I like to draw when I’m free or need a creative break.  
 - 🌍 **Travelling** – I enjoy exploring new places and cultures whenever I get the chance.  
 
 
 
-## 📊 Github Stats
+## **📊 Github Stats**
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codershashi0001&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
@@ -80,7 +80,7 @@ I enjoy exploring <b>C, C++, Java, HTML, CSS</b>, and <b>Git/GitHub</b>, with a 
 
 
 
-## 🧋 Special Widgets & Counters
+## **🧋 Special Widgets & Counters**
 
 <!-- <p align="center"> -->
   <a href="https://github.com/codershashi0001"><img align="left" width="100" src="./assets/boy-glitch.gif" alt="Profile Pic"/></a>      
@@ -152,19 +152,23 @@ To become a skilled **Software Engineer** and contribute to meaningful, real-wor
 ---
 -->  
   <br>
-### 📫 Connect With Me  
+  
+## **📫 Connect** 
 <a href="https://github.com/codershashi0001">
   <img align="right" width="100" src="./assets/coder.gif"> </a>
  
-*(Add your LinkedIn, Portfolio, or Email links here when available)*  <br>
+**Please Contact me on linked in for a quick response:** [
+Shashi Kumar](https://www.linkedin.com/in/shashi-kumar001?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+**You can also email me here:** shashi725806@gmail.com
+  <br>
 
-##  🌐 Social Media
+
 
 <p align="center">
   <!-- Social Media Icons without links, you can add your links later -->
-  <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</p>
+
+[![Static Badge](https://img.shields.io/github/followers/codershashi0001?label=Followers&style=social)](https://github.com/codershashi0001)
+ [![Static Badge](https://img.shields.io/badge/linkedin-blue?style=flat&link=https%3A%2F%2Fgithub.com%2Fcodershashi0001)](https://www.linkedin.com/in/shashi-kumar001?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)]()
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:shashi725806@gmail.com)
 
