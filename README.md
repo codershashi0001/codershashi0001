@@ -35,7 +35,11 @@ I enjoy exploring <b>C, C++, Java, HTML, CSS</b>, and <b>Git/GitHub</b>, with a 
 - 🎨 **Design:** Basic UI/UX  
 - 🤖 **Learning:** Artificial Intelligence & Machine Learning
 
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor)  ![cpp](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor) 
+ ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor)  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor)  ![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor)  ![ui/ux](https://img.shields.io/badge/UI%2FUX-0C223F?style=for-the-badge&logo=uxdesign&) 
+![Artificial Intelligence](https://img.shields.io/badge/AI-333399?style=for-the-badge&logo=openai&logoColorhttps://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=codeforces&logoColor=whiteeh )
 
 ## **🧑‍💼 Strengths**  
 - Strong **leadership** and **team management** qualities  
@@ -166,4 +170,6 @@ Shashi Kumar](https://www.linkedin.com/in/shashi-kumar001?utm_source=share&utm_c
  [![Static Badge](https://img.shields.io/badge/linkedin-blue?style=flat&link=https%3A%2F%2Fgithub.com%2Fcodershashi0001)](https://www.linkedin.com/in/shashi-kumar001?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:shashi725806@gmail.com)
 <!-- [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)]() --> 
+
+
 
