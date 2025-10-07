@@ -70,7 +70,8 @@ I enjoy exploring <b>C, C++, Java, HTML, CSS</b>, and <b>Git/GitHub</b>, with a 
  <p align="center">
 
   <!-- [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=codershashi0001&theme=dark)](https://git.io/streak-stats) -->
-  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=codershashi0001&theme=tokyonight)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=codershashi0001&theme=tokyonight&count_private=true)](https://git.io/streak-stats)
+
 
 
 
