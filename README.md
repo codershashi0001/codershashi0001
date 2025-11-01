@@ -30,7 +30,7 @@ I enjoy exploring <b>C, C++, Java, HTML, CSS</b>, and <b>Git/GitHub</b>, with a 
 </a>    
 
 - 💻 **Languages:** C, C++, Java  
-- 🌐 **Web Technologies:** HTML, CSS  
+- 🌐 **Web Technologies:** HTML, CSS, Scss
 - 🧩 **Version Control:** Git, GitHub  
 - 🎨 **Design:** Basic UI/UX  
 - 🤖 **Learning:** Artificial Intelligence & Machine Learning
@@ -39,7 +39,8 @@ I enjoy exploring <b>C, C++, Java, HTML, CSS</b>, and <b>Git/GitHub</b>, with a 
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor)  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor)  ![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor)  ![ui/ux](https://img.shields.io/badge/UI%2FUX-0C223F?style=for-the-badge&logo=uxdesign&) 
-![Artificial Intelligence](https://img.shields.io/badge/AI-333399?style=for-the-badge&logo=openai&logoColorhttps://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=codeforces&logoColor=whiteeh )
+![Artificial Intelligence](https://img.shields.io/badge/AI-333399?style=for-the-badge&logo=openai&logoColorhttps://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=codeforces&logoColor=whiteeh )    ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 
 ## **🧑‍💼 Strengths**  
 - Strong **leadership** and **team management** qualities  
