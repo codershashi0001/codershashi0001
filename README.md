@@ -9,7 +9,7 @@
 
 
 
-**👨‍💻 Final-year BCA student | 💻 C, C++, Java, HTML, CSS | 🤖 Learning AI/ML | 🌟 Aspiring Software Engineer | ✨ Love to build, learn & grow through code. | Tech Enthusiast**
+**👨‍💻 Final-year BCA student | 💻 C, C++, HTML, CSS | 🤖 Learning AI/ML | 🌟 Aspiring Software Engineer | ✨ Love to build, learn & grow through code. | Tech Enthusiast**
 
 ---
 
@@ -35,7 +35,7 @@ I enjoy exploring <b>C, C++, Java, HTML, CSS</b>, and <b>Git/GitHub</b>, with a 
 - 🎨 **Design:** Basic UI/UX  
 - 🤖 **Learning:** Artificial Intelligence & Machine Learning
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor)  ![cpp](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor) 
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor)  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor)  ![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor)  ![ui/ux](https://img.shields.io/badge/UI%2FUX-0C223F?style=for-the-badge&logo=uxdesign&) 
